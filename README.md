@@ -1,3 +1,5 @@
+Hands On Lab : [Link](https://quickstarts.snowflake.com/guide/accelerating_data_teams_with_snowflake_and_dbt_cloud_hands_on_lab/#0)
+
 Welcome to your new dbt project!
 
 ### Using the starter project
